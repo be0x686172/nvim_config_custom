@@ -18,6 +18,7 @@ local plugins = {
 	require("plugins.toggleterm"),
 	require("plugins.neo-tree"),
 	require("plugins.42-header"),
+	require("plugins.telescope"),
 	--require("themes.tokyonight")
 	require("themes.catppuccin")
 }
