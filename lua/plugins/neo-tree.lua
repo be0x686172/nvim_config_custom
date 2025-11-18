@@ -24,7 +24,6 @@ return {
     			}		
   		}	
 	    })
-	    vim.cmd("Neotree")
     end
    }
 }
