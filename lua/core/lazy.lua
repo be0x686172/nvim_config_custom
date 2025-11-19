@@ -20,6 +20,7 @@ local plugins = {
 	require("plugins.42-header"),
 	require("plugins.telescope"),
 	require("plugins.treesitter"),
+	require("plugins.smear_cursor"),
 	--require("themes.tokyonight")
 	require("themes.catppuccin")
 }
