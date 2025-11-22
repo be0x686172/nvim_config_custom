@@ -4,6 +4,12 @@
 
 <br /><br />
 
-<p align="center"><b>This repository contains my custom config of Neovim.</b></p>
+<p align="center"><b>This repository contains my custom configuration of Neovim.</b></p>
+<p align="center"><em>This configuration uses `space` key as `leader`.</em></p>
 
 <br /><br />
+
+## ✅ Prerequisites
+
+<br />
+
