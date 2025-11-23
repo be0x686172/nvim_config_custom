@@ -12,8 +12,6 @@
 ## 🎥 Preview
 ![Demo](assets/nvim.gif)
 
-Sorry for the quality
-
 <br />
 
 ## ✅ Prerequisites
