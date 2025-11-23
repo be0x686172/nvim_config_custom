@@ -42,3 +42,89 @@ nvim
 :Lazy install
 :Lazy update
 ```
+
+<br />
+
+## 🔌 Main Plugins
+
+| Name             | Description                              |
+| ---------------- | ---------------------------------------- |
+| 42-header.lua    | Adds 42 header comment in files          |
+| autopairs.lua    | Automatic closing of brackets and quotes |
+| autotag.lua      | Auto-close and rename HTML/JSX tags      |
+| cmp.lua          | Autocompletion setup                     |
+| lsp.lua          | Language Server Protocol configuration   |
+| lualine.lua      | Statusline configuration                 |
+| neo-tree.lua     | File explorer                            |
+| smear_cursor.lua | Cursor animation effects                 |
+| telescope.lua    | Fuzzy file finder                        |
+| toggleterm.lua   | Terminal management                      |
+| treesitter.lua   | Syntax highlighting and parsing          |
+
+<br />
+
+## ⌨️ Keymaps
+
+| Key Combination | Action                 |
+| --------------- | ---------------------- |
+| Space + e       | Open the file explorer |
+| Space + f       | Search for a file      |
+| Space + t       | Open a terminal        |
+
+<br />
+
+## 🎨 Themes
+
+| Theme      | Status                                               |
+| ---------- | ---------------------------------------------------- |
+| catppuccin | Active (set in `lua/core/lazy.lua`)                  |
+| nordic     | Commented (can be set via `:colorscheme nordic`)     |
+| onedark    | Commented (can be set via `:colorscheme onedark`)    |
+| rose-pine  | Commented (can be set via `:colorscheme rose-pine`)  |
+| tokyodark  | Commented (can be set via `:colorscheme tokyodark`)  |
+| tokyonight | Commented (can be set via `:colorscheme tokyonight`) |
+
+<p align="center"><b><em>To switch themes, modify lazy.lua or run :colorscheme <theme_name> inside Neovim.</theme_name></em></b></p>
+
+<br />
+
+## 🏗️ Structure of the repository
+
+```bash
+~/.config/nvim
+├── init.lua
+├── lazy-lock.json
+├── README.md
+├── assets/
+│   └── nvim.gif
+└── lua/
+    ├── core/
+    │   ├── keymaps.lua
+    │   ├── lazy.lua
+    │   └── options.lua
+    ├── plugins/
+    │   ├── 42-header.lua
+    │   ├── autopairs.lua
+    │   ├── autotag.lua
+    │   ├── cmp.lua
+    │   ├── lsp.lua
+    │   ├── lualine.lua
+    │   ├── neo-tree.lua
+    │   ├── smear_cursor.lua
+    │   ├── telescope.lua
+    │   ├── toggleterm.lua
+    │   └── treesitter.lua
+    ├── snippets/
+    │   └── javascriptreact.lua
+    └── themes/
+        ├── catppuccin.lua
+        ├── nordic.lua
+        ├── onedark.lua
+        ├── rose-pine.lua
+        ├── tokyodark.lua
+        └── tokyonight.lua
+```
+
+
+
+
