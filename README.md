@@ -2,12 +2,12 @@
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 
-<br /><br />
+<br />
 
 <p align="center"><b>This repository contains my custom configuration of Neovim.</b></p>
 <p align="center"><em>This configuration uses `space` key as `leader`.</em></p>
 
-<br /><br />
+<br />
 
 ## 🎥 Preview
 ![Demo](assets/nvim.gif)
