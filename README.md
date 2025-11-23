@@ -29,8 +29,6 @@
 
 ## 💻 Installation
 
-<br />
-
 ```bash
 # Clone the repository into your current directory
 git clone https://github.com/be0x686172/nvim.git
