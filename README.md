@@ -9,6 +9,10 @@
 
 <br /><br />
 
+![Demo](assets/nvim.gif)
+
+<br /><br />
+
 ## ✅ Prerequisites
 
 <br />
