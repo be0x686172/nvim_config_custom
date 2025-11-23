@@ -84,7 +84,9 @@ nvim
 | tokyodark  | Commented (can be set via `:colorscheme tokyodark`)  |
 | tokyonight | Commented (can be set via `:colorscheme tokyonight`) |
 
-<p align="center"><b><em>To switch themes, modify lazy.lua or run :colorscheme <theme_name> inside Neovim.</theme_name></em></b></p>
+<br />
+
+<p align="left"><em>To switch themes, modify lazy.lua or run :colorscheme <theme_name> inside Neovim.</theme_name></em></p>
 
 <br />
 
