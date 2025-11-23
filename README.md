@@ -12,6 +12,9 @@
 ## 🎥 Preview
 ![Demo](assets/nvim.gif)
 
+<p align="center"><b><em>This visual noise (white dots) appears only in the GIF due to compression. The actual interface is clean.
+</em></b></p>
+
 <br />
 
 ## ✅ Prerequisites
