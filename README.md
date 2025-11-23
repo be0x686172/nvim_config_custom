@@ -35,7 +35,7 @@
 # Clone the repository into your current directory
 git clone https://github.com/be0x686172/nvim.git
 
-# Move the cloned 'nvim' folder into your Neovim configuration directory
+# Move the cloned 'nvim' folder into your .config folder
 mv nvim ~/.config/
 
 # Open Neovim (this will load the configuration)
